@@ -1,0 +1,76 @@
+{
+    "User_Accounts":[
+  
+      {
+        "EmailUsed": "luisfrancisco+7.macasaet@gmail.com",
+        "Title": "Mr",
+        "Firstname": "AddedLuis",
+        "Lastname": "Trinidad",
+        "Password": "password123",
+        "DB_Day": "10",
+        "DB_Month": "June",
+        "DB_Year": "1990",
+        "NewsLetter": "1",
+        "SpecialOffers": "1",
+        "Company": "Luis Test",
+        "Add1": "Added Ibabao, Agus, Lapu-lapu city",
+        "Add2": null,
+        "City": "Added Lapu-lapu",
+        "State": "Texas",
+        "Zipcode": "60150",
+        "Country": "United States",
+        "AddInfo": null,
+        "PhoneNum": "4220987",
+        "MobilePhone": "09876543211",
+        "Allias": "Allias 1" 
+      },
+      {
+        "EmailUsed": "luisfrancisco+8.macasaet@gmail.com",
+        "Title": "Mrs",
+        "Firstname": "AddedLuisa",
+        "Lastname": "Francisca",
+        "Password": "password123",
+        "DB_Day": "25",
+        "DB_Month": "May",
+        "DB_Year": "1992",
+        "NewsLetter": "1",
+        "SpecialOffers": "0",
+        "Company": "Super Testers",
+        "Add1": "Added  Test Add1",
+        "Add2": "Added  Test Add2",
+        "City": "Added  Cebu",
+        "State": "Alaska",
+        "Zipcode": "60150",
+        "Country": "United States",
+        "AddInfo": "Additional information test",
+        "PhoneNum": "4220987",
+        "MobilePhone": "09876543211",
+        "Allias": "Allias 1" 
+      },
+      {
+        "EmailUsed": "luisfrancisco+9.macasaet@gmail.com",
+        "Title": "Mr",
+        "Firstname": "AddedMacasaet",
+        "Lastname": "Luis",
+        "Password": "password123",
+        "DB_Day": "28",
+        "DB_Month": "July",
+        "DB_Year": "1992",
+        "NewsLetter": "0",
+        "SpecialOffers": "0",
+        "Company": "Super Testers",
+        "Add1": "Added Test Add1",
+        "Add2": "Added Test Add2",
+        "City": "Cebu",
+        "State": "Kansas",
+        "Zipcode": "12345",
+        "Country": "United States",
+        "AddInfo": null,
+        "PhoneNum": "4220987",
+        "MobilePhone": "09876543211",
+        "Allias": "Allias 1" 
+      }
+  
+    ]
+  }
+  

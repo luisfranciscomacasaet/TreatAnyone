@@ -1,0 +1,4 @@
+{
+    "failOnStatusCode": false,
+    "chromeWebSecurity": false
+}
